@@ -1,0 +1,6 @@
+
+
+if __name__ == '__main__':
+    tc = int(input())
+    for _ in range(tc):
+        a, b, c = list(map(int, input().split()))
